@@ -164,7 +164,7 @@ git status
 - 更新上流
 
   ~~~ 
-  fetch upstream
+  git fetch upstream
   ~~~
 
 - 合并
